@@ -31,11 +31,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Tableau Viz
 
-<!-- JS file to enable the JavaScript API. You can point at the
-  version on public.tableau.com, online.tableau.com, or your on-prem Server -->
-<script src="https://github.com/mcvanderbilt/SDC_COVID-19/blob/master/tableauembed.js"></script>
-...
-<!-- Empty div where the viz will be placed -->
+<script src='https://github.com/mcvanderbilt/SDC_COVID-19/blob/master/tableauembed.js'></script>
 <div id="tableauViz"></div>
 
 ### Source Information
