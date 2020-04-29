@@ -1,5 +1,5 @@
 <!-- https://mcvanderbilt.github.io/SDC_COVID-19/ -->
-## Welcome to GitHub Pages
+## San Diego County COVID-19 Data
 
 You can use the [editor on GitHub](https://github.com/mcvanderbilt/SDC_COVID-19/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -29,10 +29,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mcvanderbilt/SDC_COVID-19/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Source Information
+_Data provided here without warranty of accuracy for informational purposes only._ 
+- The primary source of all data contained herein was the daily information posted at [San Diego County Health & Human Services Agency Coronavirus in San Diego County (HHSA)](https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html).  San Diego County maintains its own [COVID-19 Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/96feda77f12f46638b984fcb1d17bd24) as the official record.
+- Some data prior to pulling HHSA data gathered from the [San Diego Union-Tribune](https://www.sandiegouniontribune.com/) reporting of HHSA information.
