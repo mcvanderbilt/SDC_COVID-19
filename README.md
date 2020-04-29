@@ -32,6 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Tableau Viz
 
 <script src="https://gist.github.com/mcvanderbilt/8df51a58419532846527b53beac576f7.js"></script>
+<script src='https://github.com/mcvanderbilt/SDC_COVID-19/blob/master/tableauembed.js'></script>
 <div id="tableauViz"></div>
 
 ### Source Information
