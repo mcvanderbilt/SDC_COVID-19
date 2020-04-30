@@ -6,7 +6,6 @@ You can use the [editor on GitHub](https://github.com/mcvanderbilt/SDC_COVID-19/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -31,9 +30,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Tableau Viz
 
-<script src="https://gist.github.com/mcvanderbilt/8df51a58419532846527b53beac576f7.js"></script>
-<script src='https://github.com/mcvanderbilt/SDC_COVID-19/blob/master/tableauembed.js'></script>
-<div id="tableauViz"></div>
 
 ### Source Information
 _Data provided here without warranty of accuracy for informational purposes only._ 
